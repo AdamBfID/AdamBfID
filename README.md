@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m working on VoiceGAN, a project that focuses on voice cloning and transformation. The goal is to take speech from person A and generate the same sentence in the voice, tone, and style of person B. The system combines Convolutional Neural Networks (CNNs) for feature extraction and Transformers for sequence modeling and voice synthesis.<br>I’m currently looking for a final-year internship where I can apply and expand my skills in AI and deep learning. I’ve been learning about Transformers, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG) through various hands-on projects, exploring how these technologies can be used to build intelligent and context-aware systems.
+I’m currently looking for a final-year internship where I can apply and expand my skills in AI and deep learning. I’ve been learning about Transformers, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG) through various hands-on projects, exploring how these technologies can be used to build intelligent and context-aware systems.
 
 
 ## 🌐 Socials:
