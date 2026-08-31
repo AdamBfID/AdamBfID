@@ -40,7 +40,7 @@
 =*:.:',-===-              '~=:+*=-:+~:`'''::   - Contact -------------------------------------------------------
 *~`:'.-~=++:            .`:-+-+*=,-~=~~+~-,,   GitHub:             github.com/adambfid
                                                Website:            adam-boufeid.vercel.app
-                                               Email:              boufeidadam@gmail.com
+                                               Email:              adamboufeid77@gmail.com
 ```
 
 <div align="center">
